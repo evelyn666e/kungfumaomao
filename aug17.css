@@ -1,14 +1,36 @@
-html {
-    background: linear-gradient(180deg, #010000 0%, #420303 43.56%, #FFF 100%);
-    min-width: auto;
-    height: 100%;
-    position: relative;
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" media="screen" href="aug17.css" />
+    <title>Aug17_task1</title>
+</head>
+<body>
+    <div>
+        <h1>Kungfumaomao_Web1</h1>
+    </div>
+    <div class="input">
+        <form>
+        <input type="text" placeholder="Search what you want" id="input1">
+        <svg xmlns="http://www.w3.org/2000/svg" width="53" height="60" viewBox="0 0 53 60" fill="none" id="search-btn">
+            <path d="M37.3743 39.5519L35.6516 41.5285L50.2773 58.3098L51.9999 56.3332L37.3743 39.5519Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M22.6458 45.5285C34.6004 45.5285 44.2916 35.5604 44.2916 23.2642C44.2916 10.968 34.6004 1 22.6458 1C10.6911 1 1 10.968 1 23.2642C1 35.5604 10.6911 45.5285 22.6458 45.5285Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </form>
+    </div>
+    <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" fill="none" id="circle1">
+        <circle cx="60" cy="60" r="52.5" stroke="#C3C3C3" stroke-width="15"/>
+      </svg>
+      <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" fill="none" id="circle2">
+        <circle cx="60" cy="60" r="52.5" stroke="#C3C3C3" stroke-width="15"/>
+      </svg>
+      <img src="user1.png" atl="user1" class="user1">
+      <img src="user2.png" atl="user2" class="user2">
 
-  }
 
-  h1{color:#FFF;
-     text-align: center;
-     margin-top: 20%;
-     font-size: 50px;
+    <div>
 
-  }
+    </div>
+</body>
+</html>
