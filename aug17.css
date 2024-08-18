@@ -70,17 +70,3 @@ margin-top: 5%;
 flex-shrink: 0;
 }
 
-
-
-      <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" fill="none" id="circle2">
-        <circle cx="60" cy="60" r="52.5" stroke="#C3C3C3" stroke-width="15"/>
-      </svg>
-      <img src="user1.png" atl="user1" class="user1">
-      <img src="user2.png" atl="user2" class="user2">
-
-
-    <div>
-
-    </div>
-</body>
-</html>
